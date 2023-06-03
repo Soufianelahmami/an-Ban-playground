@@ -41,35 +41,35 @@
   "my_data":[
     {"title":"title1 ser",
       "desc":"description1 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+      "photo":"https://iili.io/H4dKBSf.jpg"},
 
     {"title":"title2 ser",
       "desc":"description2 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+      "photo":"https://iili.io/H4dKn94.jpg"},
 
     {"title":"title3 ser",
       "desc":"description3 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+      "photo":"https://iili.io/H4dKfFs.jpg"},
 
     {"title":"title4 ser",
       "desc":"description4 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+      "photo":"https://iili.io/H4dKqcG.jpg"},
 
     {"title":"title5 ser",
       "desc":"description5 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+      "photo":"https://iili.io/H4dKoAl.jpg"},
 
     {"title":"title6 ser",
       "desc":"description6 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+      "photo":"https://iili.io/H4dKxN2.jpg"},
 
     {"title":"title7 ser",
       "desc":"description7 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+      "photo":"https://iili.io/H4dKztS.jpg"},
 
     {"title":"title8 ser",
       "desc":"description8 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+      "photo":"https://iili.io/H4dKTo7.jpg"}
   ]
 
 }
